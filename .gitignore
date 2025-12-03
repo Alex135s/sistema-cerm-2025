@@ -1,0 +1,16 @@
+# Archivos de sistema
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+env/
+
+# Archivos sensibles (NO SUBIR)
+serviceAccountKey.json
+CERM_Backend/serviceAccountKey.json
+*.json
+
+# Datos locales (Opcional, si no quieres subir los excels de prueba)
+*.xlsx
+concurso.db
